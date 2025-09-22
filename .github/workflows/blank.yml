@@ -31,5 +31,5 @@ jobs:
       
       - name: Fetch informations
         run: |
-          mkdir -p infos
+          mkdir -p briefings
           python main.py
