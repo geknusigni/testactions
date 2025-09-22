@@ -1,0 +1,33 @@
+name: Fetch Informations
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get timestamp
+        id: get-timestamp
+        run: echo "timestamp=$(date -u +'%Y%m%dT%H%M%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Fetch informations
+        run: |
+          mkdir -p infos
+          curl -sL 'https://www.theinformation.com/api/v1/login' \
+            --header 'Content-Type: application/json' \
+            --data '{
+              "refresh_token": "uewAz9yDJ_lcoB_SG7la0g",
+              "platform": "android",
+              "install_id": "169c3c4843de5925",
+              "app_version": "2.5.13.2025"
+            }' -o "infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          cat infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
