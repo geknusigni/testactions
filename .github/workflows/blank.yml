@@ -30,9 +30,10 @@ jobs:
           pip install -r requirements.txt
           curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
           echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
-          sudo apt-get update && sudo apt-get install cloudflare-warp
-          # warp-cli --accept-tos registration new
-          # warp-cli connect
+          sudo apt-get update -y && sudo apt-get install -y cloudflare-warp
+          sudo echo "warp ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/warp
+          sudo warp-cli --accept-tos registration new
+          sudo warp-cli --accept-tos connect
           curl -s https://www.cloudflare.com/cdn-cgi/trace/
       
       - name: Fetch informations
