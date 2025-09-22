@@ -33,3 +33,10 @@ jobs:
         run: |
           mkdir -p briefings
           python main.py
+      - name: Commit and push new info file
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add briefings/*.json
+          git commit -m "Add info for ${{ steps.get-timestamp.outputs.timestamp }} UTC" || echo "Nothing to commit"
+          git push
