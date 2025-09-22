@@ -10,13 +10,12 @@ json_payload = {
   "app_version": "2.5.13.2025"
 }
 r = curl_cffi.post("https://www.theinformation.com/api/v1/login", json=json_payload, impersonate="chrome_android")
-print(r.text)
 rjson = r.json()
 jwt = rjson["jwt"]
 headers = {
   "Authorization": f"Bearer {jwt}"
 }
-r = curl_cffi.get("https://www.theinformation.com/api/v1/briefings?per_page=20&page=1&order=feed", headers=headers, impersonate="chrome")
+r = curl_cffi.get("https://www.theinformation.com/api/v1/briefings?per_page=20&page=0&order=feed", headers=headers, impersonate="chrome")
 data = r.json()
 
 os.makedirs("./briefings", exist_ok=True)
