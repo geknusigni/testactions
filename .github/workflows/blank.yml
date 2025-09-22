@@ -19,15 +19,17 @@ jobs:
         id: get-timestamp
         run: echo "timestamp=$(date -u +'%Y%m%dT%H%M%SZ')" >> $GITHUB_OUTPUT
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
       - name: Fetch informations
         run: |
           mkdir -p infos
-          curl -sL 'https://www.theinformation.com/api/v1/login' \
-            --header 'Content-Type: application/json' \
-            --data '{
-              "refresh_token": "uewAz9yDJ_lcoB_SG7la0g",
-              "platform": "android",
-              "install_id": "169c3c4843de5925",
-              "app_version": "2.5.13.2025"
-            }' -o "infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
-          cat "infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          python main.py
