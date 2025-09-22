@@ -10,6 +10,7 @@ json_payload = {
   "app_version": "2.5.13.2025"
 }
 r = curl_cffi.post("https://www.theinformation.com/api/v1/login", json=json_payload, impersonate="chrome_android")
+print(r.text)
 rjson = r.json()
 jwt = rjson["jwt"]
 headers = {
