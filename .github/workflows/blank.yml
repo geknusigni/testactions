@@ -30,4 +30,4 @@ jobs:
               "install_id": "169c3c4843de5925",
               "app_version": "2.5.13.2025"
             }' -o "infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
-          cat infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          cat "infos/${{ steps.get-timestamp.outputs.timestamp }}.json"
