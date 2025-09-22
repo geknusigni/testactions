@@ -1,3 +1,6 @@
+import json
+import os
+from datetime import datetime
 import curl_cffi
 
 json_payload = {
@@ -13,4 +16,10 @@ headers = {
   "Authorization": f"Bearer {jwt}"
 }
 r = curl_cffi.get("https://www.theinformation.com/api/v1/briefings?per_page=20&page=1&order=feed", headers=headers, impersonate="chrome")
-print(r.json())
+data = r.json()
+
+os.makedirs("./briefings", exist_ok=True)
+timestamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+file_path = f"./briefings/{timestamp}.json"
+with open(file_path, "w", encoding="utf-8") as f:
+  json.dump(data, f, ensure_ascii=False, indent=4)
