@@ -1,0 +1,604 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 15966,
+            "guid": "405181",
+            "headline": "Tether in Early Talks to Raise Up to $20 Billion",
+            "dek": "The stablecoin giant could be valued at up to $500 billion, Bloomberg reported.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-09-23/crypto-giant-tether-seeks-500-billion-valuation-in-major-raise?srnd=phx-crypto",
+            "source_label": "Bloomberg",
+            "body": "<p>Tether, the world’s largest stablecoin issuer, is in early talks with investors to raise between $15 billion and $20 billion in exchange for about 3% stake, Bloomberg reported, citing two people familiar with the matter.</p>\n\n<p>Tether’s U.S. CEO, Bo Hines, former White House crypto adviser, told Bloomberg that Tether has no plans to raise money. Representatives for Tether didn’t respond to comments.</p>\n\n<p>That would imply a valuation of up to $500 billion, putting it in the same league as OpenAI and SpaceX. Cantor Fitzgerald, which manages Tether’s reserve assets, is acting as the lead adviser, Bloomberg said, adding details may change and eventual numbers could be significantly lower.</p>\n\n<p>Tether issues USDT, which has $172 billion in market circulation. Circle, the second largest stablecoin issuer with $74 billion of outstanding USDC, currently has $33 billion in market value.</p>\n\n<p>Earlier this month, Tether announced it will launch a U.S.-focused stablecoin, called USAT, by setting up a new company, which will count Anchorage Digital, the issuance partner of the new stablecoin, as a shareholder.</p>",
+            "published_at": "2025-09-23T22:19:49.028Z",
+            "url": "https://www.theinformation.com/briefings/tether-early-talks-raise-20-billion?unlock=405181&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tether-early-talks-raise-20-billion?unlock=405181&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15965,
+            "guid": "e61fb7",
+            "headline": "Microsoft in Talks to Pay Publishers for Content Used by AI Chatbots",
+            "dek": "The move would theoretically give publishers a way to continually make money from chatbots that surface information from their content.",
+            "source_url": "https://www.axios.com/2025/09/23/microsoft-ai-marketplace-publishers",
+            "source_label": "Axios",
+            "body": "<p>Microsoft is preparing to launch a new marketplace that would let makers of AI products pay U.S. publishers for content that the AI products surface, Axios reported on Tuesday. The company is preparing to launch a pilot program that will pay certain publishers for content that’s used by Microsoft’s Copilot chatbot and eventually expand to&nbsp; AI applications made by other companies. It outlined the program in a summit with publishers last week, according to the report.</p>\n\n<p>A Microsoft spokesperson declined to comment.</p>\n\n<p>Firms like Microsoft, OpenAI, and Anthropic have previously struck deals with individual publishers to license content used to train AI models. The new marketplace from Microsoft would theoretically grant publishers of books and news outlets a way to continually make money from chatbots that surface information from their copyrighted material. That could also give chatbot makers a way to access content that publishers have blocked chatbots from scraping.</p>\n\n<p>Microsoft itself has also drawn the ire of publishers including the New York Times, which sued both Microsoft and OpenAI for allegedly using its intellectual property to train OpenAI’s models without permission.</p>",
+            "published_at": "2025-09-23T21:21:12.717Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-talks-pay-publishers-content-used-ai-chatbots?unlock=e61fb7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-talks-pay-publishers-content-used-ai-chatbots?unlock=e61fb7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15964,
+            "guid": "456170",
+            "headline": "Stripe to Buy Back Shares at $107 Billion Valuation",
+            "dek": "Stripe is in talks to buy back shares from investors at a price that values the payments company at $106.7 billion.",
+            "source_url": "https://www.axios.com/2025/09/23/stripe-buy-back-stock-vc",
+            "source_label": "Axios",
+            "body": "<p>Stripe is in talks to buy back shares from investors at a price that values the payments company at $106.7 billion, <a href=\"https://www.axios.com/2025/09/23/stripe-buy-back-stock-vc\">Axios reported.</a> The company recently valued itself at that level, in what’s known as a 409A valuation, according to a person with direct knowledge of the matter.</p>\n\n<p>The price eclipses the payments fintech startup’s valuation of $95 billion, which it reached through a fundraising round in 2021. Investors then cut its valuation to $50 billion when it raised money in 2023, at a time when interest rates were spiking and venture capital funding dropped.</p>\n\n<p>The payments company is considering allowing employees to sell their shares at this level.</p>",
+            "published_at": "2025-09-23T19:08:14.748Z",
+            "url": "https://www.theinformation.com/briefings/stripe-buy-back-shares-107-billion-valuation?unlock=456170&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/stripe-buy-back-shares-107-billion-valuation?unlock=456170&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15963,
+            "guid": "f5b8ab",
+            "headline": "OpenAI, Oracle, SoftBank plan five new U.S. data center sites",
+            "dek": "The announcement comes a day after OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang announced that the chip designer would invest up to $100 billion in OpenAI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI said Tuesday an agreement with Oracle and SoftBank to supply computing power for artificial intelligence would expand to five new data centers built under the Stargate branding, an update to the $500 billion project it announced at the White House in January.</p>\n\n<p>The five additional sites–two in Texas, one in New Mexico, one in Ohio, and another in an unnamed Midwestern state–will give OpenAI access to almost 7 gigawatts of total computing capacity through Stargate over the next three years, OpenAI said Tuesday. OpenAI and SoftBank will jointly develop data centers in Lordstown, Ohio, and Milam County, Tex.</p>\n\n<p>OpenAI said the Stargate companies would continue evaluating other U.S. sites and planned to spend more than their initial $500 billion commitment.</p>\n\n<p>The Information previously reported OpenAI CEO Sam Altman and Oracle’s new co-CEO Clay Magouryk on Tuesday were expected to announce an expansion of their data center in Abilene, Texas.</p>\n\n<p>The announcement&nbsp;comes a day after Altman and Nvidia CEO Jensen Huang announced that the chip designer would invest up to $100 billion in OpenAI over an unspecified time to help the startup develop its own data centers, separately from the servers it is renting from cloud providers such as Oracle and Microsoft. Spokespeople for OpenAI and Oracle did not respond to a request for comment.</p>",
+            "published_at": "2025-09-23T17:52:43.704Z",
+            "url": "https://www.theinformation.com/briefings/openai-oracle-announce-data-center-expansion-texas?unlock=f5b8ab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-oracle-announce-data-center-expansion-texas?unlock=f5b8ab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                },
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15962,
+            "guid": "930f16",
+            "headline": "YouTube to Reallow Accounts Banned Over Covid-19, Election Integrity Violations",
+            "dek": "A lawyer representing Alphabet also said that the Biden Administration had “press[ed] the Company to remove non-violative content” related to the Covid-19 pandemic.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>YouTube said on Tuesday that it would allow accounts banned for violating its policies on Covid-19 and election integrity to rejoin the platform, following pressure from Republican legislators led by Rep. Jim Jordan.</p>\n\n<p>In a <a href=\"https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2025-09-23-letter-to-hjc.pdf\">letter</a> to Jordan, a lawyer representing YouTube’s parent company Alphabet also said that the Biden Administration had “press[ed] the Company to remove non-violative content” related to the Covid-19 pandemic.</p>\n\n<p>YouTube’s announcement follows <a href=\"https://www.theinformation.com/articles/meta-cto-says-company-mishandled-introduction-of-new-content-policies?rc=n9lbpq\">changes</a> from Meta Platforms earlier this year softening its fact-checking and hate speech policies. It also comes as YouTube continues to have “productive discussions” with lawyers for Donald Trump regarding Trump’s suit against YouTube for removing his accounts after the January 6 riots, according to an August court <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.cand.386486/gov.uscourts.cand.386486.175.0.pdf\">filing</a>.&nbsp;A spokesperson for Google declined to comment beyond the letter.</p>",
+            "published_at": "2025-09-23T17:40:32.568Z",
+            "url": "https://www.theinformation.com/briefings/youtube-reallow-accounts-banned-covid-19-election-integrity-violations?unlock=930f16&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/youtube-reallow-accounts-banned-covid-19-election-integrity-violations?unlock=930f16&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15961,
+            "guid": "e7d6c9",
+            "headline": "Altman Says Data Center Project Will Produce ‘Gigawatt of New AI Infrastructure Every Week’",
+            "dek": "Altman said that OpenAI would be disclosing later this year \"interesting new ideas\" it has about financing its AI infrastructure ambitions.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CEO Sam Altman said in a <a href=\"https://blog.samaltman.com/abundant-intelligence\">blog post</a> on Tuesday that the company aims to create a “factory that can produce a gigawatt of new AI infrastructure every week.” The comments come a day after OpenAI announced a partnership with Nvidia, under which the chip designer plans to invest up to $100 billion in OpenAI to help finance the development of new AI data centers.</p>\n\n<p>Altman also said that OpenAI would be disclosing later this year “interesting new ideas” it has about financing its AI infrastructure ambitions, hinting that it might turn to less traditional methods to raise capital to build the data centers. In the past, companies building data centers have turned to more <a href=\"https://www.theinformation.com/articles/ai-data-center-lenders-watch\">creative structures</a> to raise money, like using their AI chips as collateral for loans.</p>\n\n<p>Altman said that with 10 gigawatts of computing capacity, AI could possibly cure cancer. His optimistic stance on the potential for AI technology stands in stark contrast to companies selling that AI tech, who have <a href=\"https://www.theinformation.com/articles/salesforce-microsoft-find-selling-ai-enterprises-easier-said-done\">struggled to find enterprise buyers in some cases</a>.</p>",
+            "published_at": "2025-09-23T15:04:11.264Z",
+            "url": "https://www.theinformation.com/briefings/altman-says-data-center-project-will-produce-gigawatt-new-ai-infrastructure-every-week?unlock=e7d6c9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/altman-says-data-center-project-will-produce-gigawatt-new-ai-infrastructure-every-week?unlock=e7d6c9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15960,
+            "guid": "ebde7c",
+            "headline": "Nvidia Could Get 2% Stake in OpenAI From $10 Billion Investment",
+            "dek": "The chipmaker said it would invest up to $100 billion in OpenAI",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia has committed to investing the first $10 billion of a planned $100 billion investment in OpenAI at the startup’s recent $500 billion valuation and then will make the remaining staggered investments at future valuations, according to a person with direct knowledge of the plans.</p>\n\n<p>The chip giant is making the investment in cash and will receive equity in OpenAI as part of the deal. Based on OpenAI’s recent valuation in an employee share, Nvidia would get about 2% of the company from the first $10 billion invested.</p>\n\n<p>Earlier Monday, both companies said Nvidia would make a $100 billion investment to support 10 gigawatts of data center capacity for OpenAI. Nvidia will make the investment as each gigawatt comes online. This structure should limit the amount of dilution other OpenAI investors experience, assuming the valuation of OpenAI continues to rise.</p>\n\n<p>By the end of this year, OpenAI will have raised over <a href=\"https://www.theinformation.com/articles/115-billion-reason-openai-will-raise-money?rc=8tzurb\">$70 billion since its founding</a>, including an investment by Nvidia last fall when OpenAI was valued at $157 billion. OpenAI needs to support the immense <a href=\"https://www.theinformation.com/articles/openai-spend-100-billion-backup-servers-ai-breakthroughs\">costs of training and running its models</a>, which the company has projected will cost at least $450 billion through 2030. OpenAI is in the middle of a restructuring that could pave the way for an eventual public offering.</p>",
+            "published_at": "2025-09-23T04:07:33.436Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-get-2-stake-openai-10-billion-investment?unlock=ebde7c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-get-2-stake-openai-10-billion-investment?unlock=ebde7c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15959,
+            "guid": "483c20",
+            "headline": "Coinbase Wants to be ‘Super App’ and Replaces Banks: CEO",
+            "dek": "Brian Armstrong’s comments come as bank lobbying groups clash with crypto groups.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coinbase CEO Brian Armstrong said he wants to develop a super app for customers that would provide an array of financial services such as cards and payments beyond crypto trading.</p>\n\n<p>“Ultimately we want to be a bank replacement for people,” Armstrong <a href=\"https://www.youtube.com/watch?v=02YqCHhSIRM\">told</a> Fox Business last Friday. “We want to be their primary financial services account.”</p>\n\n<p>Armstrong also criticized the push by bank lobbying groups to ban crypto exchanges from paying yield to users on their stablecoin holdings in the upcoming crypto bill. The stablecoin legislation passed in July banned stablecoin issuers from directly paying customers interest, but exchanges can. Coinbase currently pays 4.1% rewards on users’ USDC stablecoin holdings. Bank trade groups <a href=\"https://bpi.com/closing-the-payment-of-interest-loophole-for-stablecoins/\">say</a> such yield could cause deposit flight risks for banks, undermining their ability to make loans.</p>\n\n<p>Armstrong and other crypto leaders visited Capitol Hill last week to advocate for the Clarity Act. Kraken is also building out a full set of financial services, most recently launching Krak, an app providing instant payment and saving rewards.</p>",
+            "published_at": "2025-09-22T17:34:13.846Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-wants-super-app-replaces-banks-ceo?unlock=483c20&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-wants-super-app-replaces-banks-ceo?unlock=483c20&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15958,
+            "guid": "b82685",
+            "headline": "Arguments Begin for Remedies in Google’s Advertising Technology Anti-Trust Case",
+            "dek": "The Department of Justice is arguing for a Google break up \r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>The second phase of Google’s second antitrust case—this one around its ad tech operations—opened in a Virginia courthouse on Monday. In April, a district judge <a href=\"https://www.theinformation.com/articles/googles-breakup-likely-second-antitrust-loss\">found</a> Google monopolized the market for technology that helps websites sell ads, and the trial that is on this week will help decide how Google should address these findings.</p>\n\n<p>The Department of Justice is arguing that Google should be forced to sell its suite of technology that helps web publishers manage and sell ad space, today known as <a href=\"https://www.theinformation.com/articles/google-preparing-make-ad-tech-unit-independent\">Google Ad Manager</a>. Google, for its part, says the judge’s findings can be addressed by removing some of the ties between Google’s various advertising technology products. Google has also said they plan to appeal the judge’s ruling.</p>\n\n<p>Google’s ad tech operations are facing anti-trust scrutiny from many angles. Earlier this month, European regulators <a href=\"https://www.theinformation.com/briefings/european-commission-warns-may-mandate-google-ad-tech-breakup\">fined</a> Google €2.95 billion for anti-competitive behavior in ad tech, in a case similar to the one brought by the Department of Justice. Separately, several of Google’s competitors in publisher advertising technology—including Magnite, PubMatic and OpenX—have sued Google, alleging that Google’s anti-competitive behavior in advertising technology harmed their businesses. Publishers including People Inc., Business Insider and Slate also recently sued Google for harms related to advertising technology.</p>",
+            "published_at": "2025-09-22T17:28:33.790Z",
+            "url": "https://www.theinformation.com/briefings/arguments-begin-remedies-googles-advertising-technology-anti-trust-case?unlock=b82685&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/arguments-begin-remedies-googles-advertising-technology-anti-trust-case?unlock=b82685&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15957,
+            "guid": "45a319",
+            "headline": "Nvidia Will Invest Up to $100 Billion in OpenAI For New Data Centers",
+            "dek": "The unprecedented agreement, while devoid of details, answers a looming question about how OpenAI would pay for its soaring server costs. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia and OpenAI said Monday they had signed a strategic partnership in which the chip designer will invest up to $100 billion in the ChatGPT maker over an unspecified time as the startup increasingly relies on Nvidia’s artificial intelligence chips.</p>\n\n<p>The move will help OpenAI develop its own data centers in addition to the unprecedented agreements it has struck to rent Nvidia chip servers from Microsoft and Oracle, according to a person who spoke to Nvidia executives about the new deal.</p>\n\n<p>The agreement involves OpenAI plans to develop 10 gigawatts of data center capacity—enough power to run numerous large cities. In other words, Nvidia would pay OpenAI roughly $10 billion per gigawatt of capacity the startup develops.</p>\n\n<p>Nvidia and OpenAI said they are still finalizing the details of the partnership, and it isn’t clear how the agreement impacts OpenAI’s plan to develop its own AI server chips with the aid of Broadcom, an Nvidia rival. Shares in Nvidia rose 5% on the news.</p>\n\n<p>OpenAI over the summer projected it would spend $450 billion on AI chip servers before the end of the decade, largely through rental agreements with Oracle and Microsoft, and has projected it will burn $115 billion through 2029 before starting to generate cash from its business, <a href=\"https://www.theinformation.com/articles/openai-says-business-will-burn-115-billion-2029?rc=zjctrx\">The Information has reported</a>. It isn’t clear how the Nvidia chip-powered data centers OpenAI is seeking to develop would impact those figures.</p>",
+            "published_at": "2025-09-22T17:24:05.860Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-says-will-invest-100-billion-openai?unlock=45a319&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-says-will-invest-100-billion-openai?unlock=45a319&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15956,
+            "guid": "615d94",
+            "headline": "FTC Consumer Protection Lawsuit Against Amazon Heads to Trial This Week",
+            "dek": "In the suit, the FTC alleges Amazon made it difficult for shoppers to cancel subscriptions and understand billing terms.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A Federal Trade Commission lawsuit against Amazon’s alleged use of deceptive practices to lock consumers into its Prime subscription goes to trial this week in a Seattle court. In the lawsuit, which the FTC filed in 2023, the commission alleges that Amazon violated consumer protection laws by tricking shoppers into signing up for Prime memberships without their knowledge, including by making it difficult to understand billing terms and to cancel subscriptions. Amazon has denied the allegations.</p>\n\n<p>The lawsuit is separate to the FTC’s antitrust lawsuit against Amazon, alleging that it uses illegal monopolization tactics to control online commerce, which isn’t due to go to trial until 2027.</p>\n\n<p>Several Amazon executives are also named as individual defendants. Judge John Chun, who is overseeing the case, said that two of the executives, Neil Lindsay and Jamil Ghani, would be individually responsible if the FTC proves misconduct during the trial because of their work on the Prime program. The jury will decide if another executive, Russell Grandinetti, will be similarly liable.&nbsp;“The bottom line is that neither Amazon nor the individual defendants did anything wrong – we remain confident that the facts will show these executives acted properly and we always put customers first,“ an Amazon spokesperson said in a statement.</p>",
+            "published_at": "2025-09-22T14:27:02.859Z",
+            "url": "https://www.theinformation.com/briefings/ftc-consumer-protection-lawsuit-amazon-heads-trial-week?unlock=615d94&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ftc-consumer-protection-lawsuit-amazon-heads-trial-week?unlock=615d94&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15955,
+            "guid": "8cc267",
+            "headline": "Oracle CEO Catz Steps Aside,  as Cloud Chief Promoted",
+            "dek": "The management shuffle highlights the importance of cloud to Oracle.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Oracle CEO Safra Catz is stepping aside, to be replaced by a pair of executives with experience in the cloud, both holding the CEO title. They are Oracle’s cloud chief, Clayton Magouyrk, and&nbsp;long term Oracle executive Michael Sicilia, who also worked in cloud. The new arrangement confirms how cloud has become Oracle’s most important business.</p>\n\n<p><a href=\"https://www.theinformation.com/articles/the-people-with-power-at-oracle-as-it-focuses-on-the-cloud?rc=9byxri\">Magouyrk joined Oracle</a> in 2014 after several years at Amazon, including AWS. Sicilia previously worked in the cloud unit under its former leader, Don Johnson, another former AWS executive. Sicilia has&nbsp;held various roles in recent years. In June he was promoted to be president of “Industries” and before that he ran Oracle’s global business units.</p>\n\n<p>Meanwhile, Oracle named a new principal financial officer, Douglas Kehring, succeeding Catz, who had also held that position. She will stay on as executive vice chair of Oracle. A key decision maker remains Larry Ellison, who is chair of Oracle and the controlling shareholder.</p>",
+            "published_at": "2025-09-22T12:58:00.303Z",
+            "url": "https://www.theinformation.com/briefings/oracle-ceo-catz-steps-aside-cloud-executive-promoted?unlock=8cc267&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-ceo-catz-steps-aside-cloud-executive-promoted?unlock=8cc267&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15954,
+            "guid": "fef98b",
+            "headline": "Trump to Sign Executive Order This Week With Details of TikTok Deal",
+            "dek": "The order will also delay enforcement of the TikTok sale-or-ban law for another 120 days.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump is expected to sign an executive order this week outlining the structure of a proposed deal for a group of investors to take over TikTok’s U.S. operations, according to a White House official.</p>\n\n<p>Under the plan, a new joint-venture company will be created to run TikTok U.S., with a seven member board controlled by Americans. TikTok’s Chinese parent company, ByteDance, is expected to create a duplicate copy of TikTok’s algorithm, and lease it to the new ownership company, the official said. Oracle, one of the investors involved, will be responsible for retraining and monitoring the algorithm.</p>\n\n<p>While more details have been emerging about the deal in recent days, including the <a href=\"https://www.theinformation.com/briefings/trump-says-murdochs-likely-involved-tiktok-deal?rc=kfcki8\">involvement of Rupert and Lachlan Murdoch</a>, it remains unclear when it will actually come into effect. The executive order this week is expected to further delay the ban-or-sale law against TikTok for another 120 days, to give investors more time to finalize the paperwork, the official said.</p>",
+            "published_at": "2025-09-22T10:00:53.039Z",
+            "url": "https://www.theinformation.com/briefings/trump-sign-executive-order-week-details-tiktok-deal?unlock=fef98b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-sign-executive-order-week-details-tiktok-deal?unlock=fef98b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15953,
+            "guid": "84cb1e",
+            "headline": "Trump Says Murdochs are Likely to be Involved in TikTok Deal",
+            "dek": "A potential investment would be from Fox Corporation, according to a person familiar with the matter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump said Sunday that media executives Rupert and Lachlan Murdoch are likely to be part of a group of investors planning to take over TikTok’s U.S. operations.</p>\n\n<p>In an interview on <a href=\"https://www.foxnews.com/video/6379887912112\">Fox News</a>, Trump said billionaires Larry Ellison and Michael Dell are part of the consortium of investors. He added, “I hate to tell you this, but a man named Lachlan is involved,” clarifying that he was referring to Lachlan Murdoch. “Rupert [Murdoch] is probably gonna be in the group, I think they’re gonna be in the group,” Trump said.</p>\n\n<p>A person familiar with the matter said that if an investment does take place, it would be from Fox Corporation, which the Murdochs oversee.</p>\n\n<p>A deal to sell TikTok’s U.S. business has been in the works for months but appeared to accelerate this weekend after Trump said Chinese President Xi Jinping approved the deal during a phone call between the pair on Friday.</p>",
+            "published_at": "2025-09-21T21:03:19.682Z",
+            "url": "https://www.theinformation.com/briefings/trump-says-murdochs-likely-involved-tiktok-deal?unlock=84cb1e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-says-murdochs-likely-involved-tiktok-deal?unlock=84cb1e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15952,
+            "guid": "e7237a",
+            "headline": "Microsoft, Amazon Warn Foreign Staffers to Stay in U.S. Due to H-1B Fee",
+            "dek": "The White House clarified on Saturday that the $100,000 fee applies only to new H-1B applications. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Some of the tech industry’s largest employers warned foreign staffers to stay in the U.S. or return immediately after President Donald Trump announced a plan Friday to impose a $100,000 fee on H-1B worker visas.</p>\n\n<p>But in a sign of the chaotic roll-out of the policy, the White House on Saturday clarified that the fee will only apply to new applicants for H-1Bs, not those on existing visas or seeking renewals, according to <a href=\"https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas\">multiple</a> <a href=\"https://www.politico.com/news/2025/09/20/donald-trump-h1b-visas-overhaul-00574345\">reports</a>. It also said the $100,000 charge will be a <a href=\"https://x.com/joemillerjr/status/1969452986448457815\">one-time fee</a>, not an annual fee, as members of the Trump administration <a href=\"https://www.cnbc.com/2025/09/19/trump-overhaul-h-1b-visa.html\">had said</a> on Friday.</p>\n\n<p>Still, the <a href=\"https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html\">warnings</a> from Amazon, <a href=\"https://x.com/OsintUpdates/status/1969293135218909240?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1969293135218909240%7Ctwgr%5Ec9dc0d89de0a09e1d076e074bb49960d8b3f780a%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.theweek.in%2Fnews%2Fbiz-tech%2F2025%2F09%2F20%2Fh1-b-policy-update-this-is-what-microsoft-amazon-jpmorgan-told-employees-after-donald-trump-s-new-visa-fee.html\">Microsoft</a> and other companies to their staffers appeared to occur before the White House clarified that the fee won’t apply to existing H-1B holders. Spokespeople for Amazon and Microsoft didn’t respond to requests Saturday about whether they are still advising employees on the visas to stay in the U.S. in light of the new White House comments.</p>\n\n<p>Tech companies rely heavily on H-1B visas for high-skilled workers from India, China and other countries. Trump’s <a href=\"https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/\">H-1B order</a> on Friday did not specify that the fee only applied to new applications for the visa. The new policy is due to go into effect on Sunday.</p>",
+            "published_at": "2025-09-20T18:51:36.811Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-amazon-warn-foreign-staffers-stay-u-s-due-h-1b-fee?unlock=e7237a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-amazon-warn-foreign-staffers-stay-u-s-due-h-1b-fee?unlock=e7237a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15951,
+            "guid": "e27bf5",
+            "headline": "TikTok Deal Will Give Americans 6 of 7 Board Seats, White House Says",
+            "dek": "White House Press Secretary Karoline Leavitt said she anticipates the deal will be signed in the coming days.\r\n",
+            "source_url": "https://www.foxnews.com/video/6379847651112",
+            "source_label": "Fox News",
+            "body": "<p>A new company overseeing TikTok’s U.S. operations will be majority-owned by U.S. investors, with six of seven board seats going to Americans, White House Press Secretary Karoline Leavitt said in an interview on Fox News Saturday.</p>\n\n<p>The comments come after President Donald Trump said Friday that Chinese President Xi Jinping had approved a&nbsp;deal to sell TikTok’s U.S. operations to a group of investors, following months of uncertainty over whether China would agree to the arrangement. TikTok’s Chinese parent company, ByteDance, will hold a stake of just under 20% in the new company, and will have one seat on the board.</p>\n\n<p>Speaking on Fox News, Leavitt said the Oracle—one of the&nbsp;investors in the deal—will lead data and privacy matters, while&nbsp;TikTok’s algorithm “will also be controlled by America.” Leavitt said those details had all been agreed upon&nbsp;and now the deal needed to be signed, which she anticipated would happen “in the coming days.”</p>",
+            "published_at": "2025-09-20T18:05:34.800Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-deal-will-give-americans-6-7-board-seats-white-house-says?unlock=e27bf5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-deal-will-give-americans-6-7-board-seats-white-house-says?unlock=e27bf5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15950,
+            "guid": "381355",
+            "headline": "Crypto Custody Firm BitGo Files for IPO",
+            "dek": "BitGo is the first crypto custodian to go public in the U.S.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BitGo filed for an initial public offering on Friday, becoming the first crypto custodian to go public in the U.S.</p>\n\n<p>Founded in 2013, BitGo is one of the largest crypto custody firms in the U.S., with $90.3 billion assets on platform. Crypto custodians safekeep crypto assets for clients, preventing them from being hacked or misused. The company also provides stablecoin issuance services, and acts as a custodian and infrastructure provider for the stablecoin issued by President Donald Trump’s World Liberty.</p>\n\n<p>The Palo Alto, Calif.,-based company is seeking to list on the New York Stock Exchange under the ticker BTGO. It reported a profit of $12.6 million on revenue of $4.19 billion for the first six months this year, compared with a profit of $30.9 million and revenue of $1.12 billion during the same period last year. In 2024, it made revenue of $3 billion and profit of $157 million.</p>\n\n<p>Goldman Sachs and Citigroup are lead advisers for the offering.</p>",
+            "published_at": "2025-09-20T00:26:05.668Z",
+            "url": "https://www.theinformation.com/briefings/crypto-custody-firm-bitgo-files-ipo?unlock=381355&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-custody-firm-bitgo-files-ipo?unlock=381355&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15949,
+            "guid": "9bcdc0",
+            "headline": "Trump Announces $100,000 H-1B Visa Fee and $1 Million ‘Gold Card’",
+            "dek": "The move would make it more costly for tech companies to hire foreign workers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump announced Friday that skilled foreign workers applying for H1-B visas will have to pay a $100,000 fee.</p>\n\n<p>Currently, H1-B applicants pay fees including $215 to enter a lottery, and a larger application fee if they are selected in the lottery. Tech companies often hire foreign tech workers on H1-B visas.</p>\n\n<p>President Trump also signed an executive order creating a ‘Gold Card’ program, under which applicants can pay $1 million to the Commerce Department for an expedited visa, or companies can pay $2 million to sponsor an applicant.</p>",
+            "published_at": "2025-09-19T23:31:29.355Z",
+            "url": "https://www.theinformation.com/briefings/trump-announces-100-000-h-1b-visa-fee-1-million-gold-card?unlock=9bcdc0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-announces-100-000-h-1b-visa-fee-1-million-gold-card?unlock=9bcdc0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15948,
+            "guid": "21cf2e",
+            "headline": "Navan’s IPO Filing Shows Losses,  Steady Revenue Growth",
+            "dek": "The travel software company is the latest in a flurry of tech IPOs this fall. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Travel software company Navan, in paperwork made public Friday for a planned initial public offering, said revenue rose 30% to $329 million for the six months ended July 31. That’s roughly the same growth rate for the same period the year before.</p>\n\n<p>Navan, founded 10 years ago as TripActions, showed a net loss of $100 million for the six months ended July 31 compared to $93 million in the prior period. The company spends about half of the revenue it generates on sales and marketing. The Information earlier reported <a href=\"https://www.theinformation.com/briefings/exclusive-travel-software-startup-navan-prepares-public-listing\">on its IPO plans</a>.</p>\n\n<p>Navan was valued at $9.2 billion in 2022 and its backers include Andreessen Horowitz, Coatue Management and Lightspeed Venture Partners. Goldman Sachs and Citigroup lead&nbsp;the IPO underwriting.</p>",
+            "published_at": "2025-09-19T21:16:45.675Z",
+            "url": "https://www.theinformation.com/briefings/navans-ipo-filing-shows-losses?unlock=21cf2e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/navans-ipo-filing-shows-losses?unlock=21cf2e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1985,
+                    "name": "travel"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15947,
+            "guid": "f9b870",
+            "headline": "Oracle and Meta in Talks for $20 Billion Compute Deal",
+            "dek": "Meta is an existing customer of Oracle, but the new deal could greatly increase the amount of Nvidia graphics processing units it rents from the firm. \r\n",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-09-19/oracle-in-talks-with-meta-on-20-billion-ai-cloud-computing-deal",
+            "source_label": "Bloomberg",
+            "body": "<p>Oracle is in talks with Meta Platforms about a cloud computing deal worth around $20 billion over multiple years, according to a person with knowledge of the deal. Meta is an existing customer of Oracle, but the new deal could greatly increase the amount of Nvidia graphics processing units it rents from the firm.</p>\n\n<p>In addition to building its own data centers, Meta is expanding its cloud contracts to get capacity more quickly. Meta recently signed a <a href=\"https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google\">more than $10 billion cloud deal</a> with Google. Bloomberg first reported on the talks. The terms of the new deal are not final and could still change, according to the report.</p>\n\n<p>The talks are the latest in Oracle’s rise as a major player in the cloud computing market. Last week The Wall Street Journal reported that OpenAI committed to spending a whopping $300 billion with Oracle over multiple years starting in 2027. On Oracle’s earnings call last week, the firm told investors it signed “significant” contracts with OpenAI, xAI, Meta and Nvidia, which has also become a big customer of cloud servers powered by its chips.</p>\n\n<p>Meta is still investing heavily in its own data centers—it recently raised nearly $30 billion for a data center in Louisiana. CEO Mark Zuckerberg said recently that Meta plans to spend around $600 billion on servers through 2028.</p>",
+            "published_at": "2025-09-19T20:52:19.656Z",
+            "url": "https://www.theinformation.com/briefings/oracle-meta-talks-20-billion-compute-deal?unlock=f9b870&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-meta-talks-20-billion-compute-deal?unlock=f9b870&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        }
+    ]
+}
